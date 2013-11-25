@@ -6,13 +6,21 @@ This js can be used to generate sum capcha solution present in Calicut Universit
 <b>How to Use</b>
 
 Go to Bookmarks of website that you are using.
+
 Add a new book mark to page .
+
 Give title anything your like.
+
 Copy the contents of the script.js to the page url portion.
+
 Save it.
 
+
+
 Now go to university result website. Click on your result link.
-Enter your roll number and click on the bookmark you have just made, Hurray the sum field now contains the sum.
+
+Enter your roll number and click on the bookmark you have just made,
+Hurray the sum field now contains the sum.
 
 
 /*
